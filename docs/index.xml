@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Cloudneeti Docs</title>
+    <link>http://example.org/docs/</link>
+    <description>Recent content in Docs on Cloudneeti Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/configurationguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/configurationguide/</guid>
+      <description>Configuration and User Guide Introduction : Cloudneeti is a governance cohort, bringing together an integrated approach across various disciplines of governance. With some simple configurations, Cloudneeti can help you pull information from applications / systems deployed on Azure and inform you through various notifications, dashboards and reports about –
+ Compliance against industry standards such as PCI DSS 3.2, HIPAA, Cyber Security Foundations, Security Benchmark, NIST CSF, GDPR. Optimizing your Spend on the cloud subscription (are you over-subscribed or under-subscribed) Reliability of your cloud environments (efficacy of backups, downtime alerts) Reducing Risk by detecting and alerting non-compliant configurations  Types of User Roles  License Administrator - can do the following activities Subscription Administrator Subscription Reader      License Administrator Subscription Administrator Subscription Reader     View Dashboard :white_check_mark: :white_check_mark: :white_check_mark:   Add License Administrator :white_check_mark: :x: :x:   Add Tenant :white_check_mark: :x: :x:   Edit Tenant :white_check_mark: :x: :x:   Delete Tenant :white_check_mark: :x: :x:   Add Subscription :white_check_mark: :x: :x:   Edit Subscription :white_check_mark: :x: :x:   Delete Subscription :white_check_mark: :x: :x:   Configure Subscription :white_check_mark: :white_check_mark: :x:    Onboarding Azure Subscriptions to Cloudneeti To onboard an Azure subscription to your Cloudneeti product</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/installationguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/installationguide/</guid>
+      <description>Vagus elidunt Mole et vultus populifer quaque primoque non Lorem markdownum pignora pelle est tota propiore conpellat pectoribus de pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+ Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude  Rursus nulli murmur; hastile inridet ut ab gravi sententia!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/releasesummary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/releasesummary/</guid>
+      <description>This page is hidden in menu Quondam non pater est dignior ille Eurotas Latent te facies Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
+ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor  Cum honorum Latona O fallor in sustinui iussorum equidem.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/troubleshooting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/troubleshooting/</guid>
+      <description>Ubi loqui Mentem genus facietque salire tempus bracchia Lorem markdownum partu paterno Achillem. Habent amne generosi aderant ad pellem nec erat sustinet merces columque haec et, dixit minus nutrit accipiam subibis subdidit. Temeraria servatum agros qui sed fulva facta. Primum ultima, dedit, suo quisque linguae medentes fixo: tum petis.
+Rapit vocant si hunc siste adspice Ora precari Patraeque Neptunia, dixit Danae Cithaeron armaque maxima in nati Coniugis templis fluidove. Effugit usus nec ingreditur agmen ac manus conlato.</description>
+    </item>
+    
+  </channel>
+</rss>
