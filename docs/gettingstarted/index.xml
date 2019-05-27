@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloudneeti Docs</title>
-    <link>http://example.org/docs/gettingstarted/</link>
+    <link>https://bimalenduroy14.github.io/MyDocsBlog/docs/gettingstarted/</link>
     <description>Recent content on Cloudneeti Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/docs/gettingstarted/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bimalenduroy14.github.io/MyDocsBlog/docs/gettingstarted/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Installation &amp; Deployment Guide</title>
-      <link>http://example.org/docs/gettingstarted/gettingstartedmarketplace/</link>
+      <link>https://bimalenduroy14.github.io/MyDocsBlog/docs/gettingstarted/gettingstartedmarketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/gettingstarted/gettingstartedmarketplace/</guid>
+      <guid>https://bimalenduroy14.github.io/MyDocsBlog/docs/gettingstarted/gettingstartedmarketplace/</guid>
       <description>Getting Started with Cloudneeti VM for Azure Marketplace This article describes how to Automate Governance, Compliance, Reliability and Risk Monitoring for an enterprise using Azure
 To deploy Cloudneeti VM from the Azure Marketplace:
 Note: User logging into Azure Portal must have Global admin role to make the necessary configuration changes.
